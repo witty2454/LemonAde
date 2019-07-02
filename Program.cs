@@ -6,7 +6,14 @@ namespace LemonadeStand
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //mem var "is a" relationship
+
+
+            //constructor
+
+
+            //mem methods "has a" realtionship
+
         }
     }
 }

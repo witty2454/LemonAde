@@ -4,12 +4,7 @@ using System.Text;
 
 namespace LemonadeStand
 {
-    class Customer
+    class UI
     {
-        //mem var
-
-        //constructor
-
-        //mem method
     }
 }

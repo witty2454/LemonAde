@@ -6,5 +6,14 @@ namespace LemonadeStand
 {
     class Weather
     {
+        //mem var
+       public int dailyWeather;
+       public int nextDayWeather;
+
+    //constructor
+
+    //mem method
+
+
     }
 }

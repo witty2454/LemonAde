@@ -6,5 +6,14 @@ namespace LemonadeStand
 {
     class game
     {
+        //mem var
+        string startGame;
+        string endGame;
+        string playAgain;
+
+        // construtor
+
+        // mem methods
+
     }
 }

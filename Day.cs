@@ -6,5 +6,20 @@ namespace LemonadeStand
 {
     class Day
     {
+        //mem var
+        int day = " ";
+
+        //constrictor
+
+
+
+        //mem methods
+        Day = 1++;
+
+
+
+
+
+
     }
 }
