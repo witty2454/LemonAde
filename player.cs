@@ -4,7 +4,17 @@ using System.Text;
 
 namespace LemonadeStand
 {
-    class Class1
+    class Player
     {
+
+        //mem var 'is a' relationship
+         
+
+
+
+
+        // construtor
+
+        // mem methods 'has a' relationship
     }
 }

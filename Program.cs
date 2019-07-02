@@ -6,14 +6,9 @@ namespace LemonadeStand
     {
         static void Main(string[] args)
         {
-            //mem var "is a" relationship
-
-
-            //constructor
-
-
-            //mem methods "has a" realtionship
-
+            Game rungame = new Game();
+            rungame.RunGame();
+            Console.ReadKey();
         }
     }
 }
