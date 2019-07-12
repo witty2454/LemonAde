@@ -1,0 +1,7 @@
+C:\Users\19405\OneDrive\Documents\Dev Code Camp\Week 4\LemonadeStand\LemonadeStand2\bin\Debug\LemonadeStand2.exe.config
+C:\Users\19405\OneDrive\Documents\Dev Code Camp\Week 4\LemonadeStand\LemonadeStand2\bin\Debug\LemonadeStand2.exe
+C:\Users\19405\OneDrive\Documents\Dev Code Camp\Week 4\LemonadeStand\LemonadeStand2\bin\Debug\LemonadeStand2.pdb
+C:\Users\19405\OneDrive\Documents\Dev Code Camp\Week 4\LemonadeStand\LemonadeStand2\obj\Debug\LemonadeStand2.csprojAssemblyReference.cache
+C:\Users\19405\OneDrive\Documents\Dev Code Camp\Week 4\LemonadeStand\LemonadeStand2\obj\Debug\LemonadeStand2.csproj.CoreCompileInputs.cache
+C:\Users\19405\OneDrive\Documents\Dev Code Camp\Week 4\LemonadeStand\LemonadeStand2\obj\Debug\LemonadeStand2.exe
+C:\Users\19405\OneDrive\Documents\Dev Code Camp\Week 4\LemonadeStand\LemonadeStand2\obj\Debug\LemonadeStand2.pdb
